@@ -1,0 +1,21 @@
+Config:
+#百度API帮助地址：http://api.fanyi.baidu.com/doc/21
+  #API地址默认为百度翻译的通用翻译API
+  api_url: "http://api.fanyi.baidu.com/api/trans/vip/translate"
+  app_id: #此处填写你的AppID
+  secret: "" #此处填写你的密钥
+  transfrom: en #从 from 翻译 为 to
+  transto: zh
+  #不翻译以下列表的字符
+  DetranslateList:
+  - "&"
+  - "*"
+  - ":"
+  - "!"
+  #过滤模式：whitelist 或 blacklist 分别匹配下方的白名单和黑名单
+  listmode: whitelist
+  Whitelist:
+  - Title
+  - Thursday
+  Blacklist:
+  - lore

@@ -1,0 +1,22 @@
+{
+  "Title": "This is a title",
+  "Monday": 1,
+  "Tuesday": 2,
+  "Wednesday": "Its Wednesday",
+  "Thursday": ["its Thursday", 4],
+  "Friday": "apple",
+  "Saturday": "orange",
+  "Sunday": "sunday",
+  "dictionary":
+  {
+    "Title": "this is a title in a dictionary",
+    "Orange": "An apple every day, keeps doctor away"
+  },
+  "list_and_list": [
+    [
+      {
+        "title": "im a dictionary in a list in a list"
+      }
+    ]
+  ]
+}
