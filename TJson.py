@@ -44,7 +44,7 @@ except PermissionError:
 
 
 #载入配置文件
-f = open("config.t.yml",'r',encoding='utf-8')
+f = open("config.yml",'r',encoding='utf-8')
 
 config = yaml.load(f.read(), Loader=yaml.FullLoader)
 
