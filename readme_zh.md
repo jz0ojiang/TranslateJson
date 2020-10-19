@@ -2,7 +2,7 @@
 
 [博客地址](#) | [视频演示](#)
 
-![](https://img.shields.io/badge/TranslateJson-python-green?style=flat&logo=Python) ![](https://img.shields.io/badge/License-GNU_Affero_GPL-yellow?style=flat) ![](https://img.shields.io/badge/Version-0.1.0-blueviolet?style=flat)
+![](https://img.shields.io/badge/TranslateJson-python-green?style=flat&logo=Python) ![](https://img.shields.io/badge/License-AGPL-3.0_License-yellow?style=flat) ![](https://img.shields.io/badge/Version-0.1.0-blueviolet?style=flat)
 
 ## 我能干啥？
 
@@ -17,7 +17,7 @@
 ```bash
 $ git clone "https://github.com/0ojixueseno0/TranslateJson.git"
 $ cd TranslateJson
-$ .\TJson.py example.json
+$ .\TJson.py "example.json or example.yaml"
 #或者编译为程序使用
 ```
 
@@ -26,11 +26,15 @@ $ .\TJson.py example.json
 ```bash
 #Windows
 $ Tjson.exe example.json
+#or
+$ Tjson.exe example.yaml
 #linux
 $ Tjson example.json
+#or
+$ Tjson example.yaml
 ```
 
-翻译完毕后会输出为output.json文件
+翻译完毕后会输出为output.json/y(a)ml文件
 
 ## 配置文件
 
