@@ -2,7 +2,7 @@
 
 [博客地址](#) | [视频演示](#)
 
-![](https://img.shields.io/badge/TranslateJson-python-green?style=flat&logo=Python) ![](https://img.shields.io/badge/License-AGPL-3.0_License-yellow?style=flat) ![](https://img.shields.io/badge/Version-0.1.0-blueviolet?style=flat)
+![](https://img.shields.io/badge/TranslateJson-python-green?style=flat&logo=Python) ![](https://img.shields.io/badge/License-AGPL--3.0_License-yellow?style=flat) ![](https://img.shields.io/badge/Version-0.2.0-blueviolet?style=flat)
 
 ## 我能干啥？
 
